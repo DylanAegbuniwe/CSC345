@@ -1,2 +1,2 @@
 # CSC345
-Things in CSC 345
+Classwork in CSC 345
